@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: bilyvioo/hello-gitops
-  newTag: 70c94b53cee81ff9e104df185bd186af7c3e60ad
+  newTag: 722513fcc064fcff7055b5bafeeecb41e0af7ed0
