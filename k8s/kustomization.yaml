@@ -8,4 +8,4 @@ namespace: python-app-green
 images:
 - name: hello-gitops
   newName: bilyvioo/hello-gitops
-  newTag: 722513fcc064fcff7055b5bafeeecb41e0af7ed0
+  newTag: bf47447c88d4c346e1f4fe59b66fe200d35eefc2
